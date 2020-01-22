@@ -1,0 +1,12 @@
+{
+  "contact": [
+    {
+      "username": "mario",
+      "password": 345
+    },
+    {
+      "username": "luigi",
+      "password": 123
+    }
+  ]
+}

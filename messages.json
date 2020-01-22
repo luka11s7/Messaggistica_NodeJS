@@ -1,0 +1,23 @@
+{
+    "contact": [{
+            "username": "mario",
+            "destinatario": "luigi",
+            "messaggio": "ciao fatello "
+        },
+        [{
+            "username": "mario",
+            "destinatario": "mario",
+            "messaggio": ":"
+        }],
+        [{
+            "username": "mario",
+            "destinatario": "mario",
+            "messaggio": "ciao"
+        }],
+        [{
+            "username": "mario",
+            "destinatario": "mario",
+            "messaggio": "ciao pirla"
+        }]
+    ]
+}
