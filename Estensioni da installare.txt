@@ -1,0 +1,5 @@
+# Messaggistica_NodeJS
+Per usufruire del programma aprire un terminale in Visual Code e dopo aver inizializzato il programma [npm init]
+installare le seguenti espansioni:
+fs [npm install fs];
+Vorpal [npm install vorpal].
